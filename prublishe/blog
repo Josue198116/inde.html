@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi blog</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Mi blog</h1>
+        <nav>
+            <a href="#inicio">Inicio</a>
+            <a href="#contacto">Sobre mí</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <section id="inicio">
+            <h2>Bienvenido a mi blog</h2>
+            <p>Este es un ejemplo de un blog personal utilizando HTML.</p>
+        </section>
+
+        <section>
+            <h2>Sobre mí</h2>
+            <p>Soy un desarrollador web apasionado por la tecnología y la programación.</p>
+        </section>
+
+        <section id="publicaciones">
+            <h2>Publicaciones recientes</h2>
+
+            <article>
+                <h3>Mi primer post</h3>
+                <p>Este es el contenido de mi primer post en el blog.</p>
+            </article>
+
+            <article>
+                <h3>Mi segundo post</h3>
+                <p>Este es el contenido de mi segundo post en el blog.</p>
+            </article>
+        </section>
+
+        <aside>
+            <h2>Enlaces útiles</h2>
+            <ul>
+                <li><a href="https://www.w3schools.com/">W3Schools</a></li>
+                <li><a href="https://developer.mozilla.org/">MDN Web Docs</a></li>
+            </ul>
+        </aside>
+
+    </main>
+
+    <footer>
+        <p>© 2024 Mi blog. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
