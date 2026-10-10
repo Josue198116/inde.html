@@ -1,0 +1,4 @@
+.hero{min-height:42vh;display:grid;align-items:end;color:#fff;
+ background:linear-gradient(180deg,rgba(0,0,0,.05),rgba(0,0,0,.65)),url(../imgs/travel_3.jpg) center/cover}
+.card-img-top,.carousel-item img{aspect-ratio:16/9;object-fit:cover;width:100%}
+.section-title{border-left:4px solid var(--bs-primary);padding-left:12px}
